@@ -1,0 +1,4 @@
+this is file for question only
+we will use this file to create a generator function
+which will read its content line by line
+it is very interesting to solve such type of question
